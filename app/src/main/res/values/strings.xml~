@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Converter</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="T">STANDARD CONVERTER</string>
+    <string name="L">New Button</string>
+
+</resources>
